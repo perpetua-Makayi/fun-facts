@@ -1,0 +1,2 @@
+# fun-facts
+simple application
